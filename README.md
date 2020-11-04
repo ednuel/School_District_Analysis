@@ -10,6 +10,6 @@
 # Overview of the school district analysis: Explain the purpose of this analysis.
 ##  Comparing two analysis results after removing the ninth-grade math and reading scores from Thomas High School, make cohesive conclusions in Jupyter Notebook.
 # Results
-![](Screen Shot 2020-11-03 at 8.52.59 PM.png)
+![](SC1.png)
 # Summaries
 ## After removing the ninth-grade math and reading scores from Thomas High School, it affact summary tables by slightly reducing the average scores and enomous decreasing for the passing percentage rate, including both passing percentage of math and reading score as well as overall passing percentage.
