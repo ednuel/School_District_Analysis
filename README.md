@@ -11,5 +11,6 @@
 ##  Comparing two analysis results after removing the ninth-grade math and reading scores from Thomas High School, make cohesive conclusions in Jupyter Notebook.
 # Results
 ![](SC1.png)
+![](SC2.png)
 # Summaries
 ## After removing the ninth-grade math and reading scores from Thomas High School, it affact summary tables by slightly reducing the average scores and enomous decreasing for the passing percentage rate, including both passing percentage of math and reading score as well as overall passing percentage.
